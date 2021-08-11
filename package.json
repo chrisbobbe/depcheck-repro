@@ -1,0 +1,11 @@
+{
+  "name": "depcheck-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "depcheck": "^1.4.2",
+    "flow-typed": "^3.3.1"
+  }
+}
